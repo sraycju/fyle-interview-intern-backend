@@ -97,7 +97,14 @@ response:
 
 ## 2. Test for grading API
 
+![image](https://user-images.githubusercontent.com/81697577/210067551-a8155b5f-2f77-454f-872e-fb8273fb1b98.png)
+
 ## 3. 12/12 Test cases passed
 
+![image](https://user-images.githubusercontent.com/81697577/210067593-c71cc57b-a2f1-4bed-92ce-bcf8f1cf8ed1.png)
+
 ## 4. Test coverage of 95% achieved
+
+![image](https://user-images.githubusercontent.com/81697577/210067643-6977a9b3-87c8-4669-a016-bf0d3541896e.png)
+
 
