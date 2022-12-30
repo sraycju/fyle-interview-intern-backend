@@ -20,7 +20,7 @@ def list_assignments(p):
 @teacher_assignments_resources.route('/assignments/grade', methods=['POST'], strict_slashes=False)
 @decorators.accept_payload
 @decorators.auth_principal
-def submit_assignment(p, incoming_payload):
+def grade_assignment(p, incoming_payload):
     """Grading an assignment"""
     grade_assignment_payload = AssignmentGradedSchema().load(incoming_payload)
 
